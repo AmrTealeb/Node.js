@@ -1,0 +1,18 @@
+{
+  "name": "colors-test",
+  "version": "1.0.0",
+  "description": "An Example program using the colors module.",
+  "main": "color-test.js",
+  "dependencies":{
+	"colors": "~0.6.0-1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colors",
+    "example"
+  ],
+  "author": "Amr Ali",
+  "license": "ISC"
+}
